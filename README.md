@@ -32,8 +32,12 @@ Check out my profile site: [Elite Tech](https://elite-tech-official.netlify.app/
   npm install
 3. Run locally
   npm run dev
+
 🤝 Contributing
+
 Feel free to edit or remix the code — just credit me:
+
 arts009009009 (Elite Tech)
 📜 License
+
 This project is licensed under the MIT License.
